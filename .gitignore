@@ -1,0 +1,13 @@
+# git will ignore the following files and directories.
+
+# configurations files
+.env
+
+# Python virtual environments
+venv
+
+# Temporary capture file
+webcam-picture.png
+
+# VSCode Settings
+.vscode
